@@ -4,7 +4,7 @@ def line(current_line)
   current_line.each_with_index do |person, index|
     formatted.push("#{index + 1}. #{person}")
   end
-  return "The line is currently: " + formatted.join(" ")
+  puts "The line is currently: " + formatted.join(" ")
 end
 
 katz_deli = ["Ada", "Grace", "Kent"]
