@@ -7,4 +7,4 @@ def line(current_line)
 end
 
 katz_deli = ["Ada", "Grace", "Kent"]
-line(katz_deli
+line(katz_deli)
