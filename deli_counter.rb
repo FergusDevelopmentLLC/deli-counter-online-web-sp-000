@@ -8,4 +8,4 @@ def line(current_line)
 end
 
 katz_deli = ["Ada", "Grace", "Kent"]
-line(katz_deli)
+puts line(katz_deli)
