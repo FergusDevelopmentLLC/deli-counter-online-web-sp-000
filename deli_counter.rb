@@ -30,4 +30,4 @@ katz_deli = ["Ada", "Grace", "Kent"]
 #line(katz_deli)
 #take_a_number(katz_deli, "Bob")
 now_serving(katz_deli)
-puts katz_deli
+puts katz_deli.inspect
