@@ -12,4 +12,5 @@ def line(current_line)
 end
 
 katz_deli = ["Ada", "Grace", "Kent"]
+katz_deli = []
 puts line(katz_deli)
