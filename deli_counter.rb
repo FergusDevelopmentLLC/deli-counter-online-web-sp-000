@@ -26,8 +26,8 @@ def now_serving(current_line)
   end
 end
 
-katz_deli = ["Ada", "Grace", "Kent"]
+#katz_deli = ["Ada", "Grace", "Kent"]
 #line(katz_deli)
 #take_a_number(katz_deli, "Bob")
-now_serving(katz_deli)
-puts katz_deli.inspect
+#now_serving(katz_deli)
+#puts katz_deli.inspect
