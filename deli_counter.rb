@@ -17,5 +17,5 @@ def take_a_number(current_line, name)
 end
 
 katz_deli = ["Ada", "Grace", "Kent"]
-katz_deli = []
-puts line(katz_deli)
+#line(katz_deli)
+take_a_number(katz_deli, "Bob")
